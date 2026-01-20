@@ -1,0 +1,19 @@
+# Core LLM & LangChain
+langchain>=0.1.16
+langchain-openai>=0.1.6
+openai>=1.10.0
+
+# Vector Database
+faiss-cpu>=1.7.4
+
+# Backend API
+fastapi>=0.110.0
+uvicorn>=0.27.1
+
+# Environment & Utilities
+python-dotenv>=1.0.1
+pydantic>=2.6.1
+tiktoken>=0.6.0
+
+# Document Loading
+unstructured>=0.12.5
