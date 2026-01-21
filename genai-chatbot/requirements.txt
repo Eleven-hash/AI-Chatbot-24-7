@@ -1,6 +1,7 @@
 # LangChain Core
 langchain>=0.1.16
 langchain-google-genai>=0.0.11
+langchain-community>=0.0.10
 
 # Vector Database
 faiss-cpu>=1.7.4
@@ -16,3 +17,4 @@ tiktoken>=0.6.0
 
 # Document Processing
 unstructured>=0.12.5
+pdf2image>=1.16.3
