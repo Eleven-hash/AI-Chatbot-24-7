@@ -1,7 +1,6 @@
-# Core LLM & LangChain
+# LangChain Core
 langchain>=0.1.16
-langchain-openai>=0.1.6
-openai>=1.10.0
+langchain-google-genai>=0.0.11
 
 # Vector Database
 faiss-cpu>=1.7.4
@@ -10,10 +9,10 @@ faiss-cpu>=1.7.4
 fastapi>=0.110.0
 uvicorn>=0.27.1
 
-# Environment & Utilities
+# Utilities
 python-dotenv>=1.0.1
 pydantic>=2.6.1
 tiktoken>=0.6.0
 
-# Document Loading
+# Document Processing
 unstructured>=0.12.5
